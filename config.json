@@ -1,0 +1,48 @@
+{
+  "business": {
+    "name": "Nextvin Marketing Solutions",
+    "shortName": "Nextvin",
+    "tagline": "We help businesses get customers using ads, content, and growth strategies.",
+    "supportingStatement": "From building brand visibility to generating leads and converting audiences into customers, we bring advertising, creativity and marketing strategy together to help businesses grow.",
+    "domain": "https://nextvinmarketingsolutions.in/",
+    "email": "support@nextvinmarketingsolutions.in",
+    "registrar": "Hostinger",
+    "targetMarket": "India-based businesses, startups, local businesses, entrepreneurs, SMEs and growing brands"
+  },
+  "whatsapp": {
+    "number": "917288993594",
+    "defaultMessage": "Hello Nextvin Marketing Solutions, I would like to discuss marketing services for my business."
+  },
+  "packages": {
+    "quickCreative": {
+      "name": "Quick Creative",
+      "priceRange": "₹499 – ₹2,999",
+      "billing": "One-time purchase per pack",
+      "description": "Designed for businesses needing specific creative deliverables without committing to a monthly marketing retainer."
+    },
+    "starterPresence": {
+      "name": "Starter Presence",
+      "priceRange": "₹5,000 – ₹10,000",
+      "billing": "per month",
+      "description": "Designed for businesses beginning or improving their social media presence."
+    },
+    "growthMarketing": {
+      "name": "Growth Marketing",
+      "priceRange": "₹10,000 – ₹25,000",
+      "billing": "per month",
+      "description": "Designed for businesses looking for coordinated marketing, content and lead generation."
+    },
+    "fullService": {
+      "name": "Full-Service Marketing",
+      "priceRange": "₹30,000 – ₹50,000+",
+      "billing": "per month",
+      "description": "Designed for businesses seeking broad marketing support."
+    }
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/nextvinmarketingsolutions",
+    "linkedin": "",
+    "facebook": "",
+    "youtube": ""
+  }
+}
